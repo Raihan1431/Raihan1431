@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
 <h3 align="center">Programmer, Developer , Engineer</h3>
 
-- 🌱 I’m currently learning **Programming, Front-End website Developing, Game Developing**
+- 🌱 I’m currently learning **Programming, Back-End website Developing, Game Developing**
 
 - 📫 How to reach me **nazmurraihan46@gmail.com**
 
