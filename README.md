@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Nazmur Raihan.github.io](https://raihan1431.github.io/)
 
-- 💬 Ask me about **Software Development development and ML**
+- 💬 Ask me about **Software Development and ML**
 
 - 📫 How to reach me **nazmurraihan46@gmail.com**
 
