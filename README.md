@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/raihan1431/Portfolio-Website)
 
-- 🌱 I’m currently learning **MERN stack, Machine Learning, Codeigniter, Docker,Game Development (Unreal 5)**
+- 🌱 I’m currently learning **MERN stack, Machine Learning, Asp.net core, Docker,Game Development (Unreal 5)**
 
 - 👨‍💻 All of my projects are available at [Nazmur Raihan.github.io](https://raihan1431.github.io/)
 
